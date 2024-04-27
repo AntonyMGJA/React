@@ -2,6 +2,7 @@
 import { useState, useEffect } from "react"
 import { productList, productfilt } from "./js"
 import { useRouter } from 'next/navigation'
+import '../../globals.css'
 
 export default function Example() {
     const [Nombre, setNombre] = useState([])
