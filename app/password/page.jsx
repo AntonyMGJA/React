@@ -1,6 +1,7 @@
 "use client"
 import { useState } from "react";
 import { setLogin } from"../js"
+import '../globals.css'
 
 export default function Example() {
 
