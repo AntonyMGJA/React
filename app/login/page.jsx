@@ -1,6 +1,7 @@
 "use client"
 import { useState } from "react";
 import { signInWithEmail } from"../js"
+import '../globals.css'
 
 export default function Example() {
 
