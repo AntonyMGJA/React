@@ -1,5 +1,6 @@
 "use client"
 import AuthForm from "./components/AuthForm"
+import './globals.css'
 
 export default function Home() {
   return (
